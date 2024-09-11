@@ -11,4 +11,3 @@ def task():
 
     return result
 
-task()
