@@ -5,9 +5,6 @@ def task():
     name = input("what is your name?\n")
 
     result.append(name)
-
     
-
-
     return result
 
